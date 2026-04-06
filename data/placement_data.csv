@@ -1,0 +1,13 @@
+Name,Branch,CGPA,Internships,Projects,PlacementStatus,Salary
+A,CS,8.5,2,3,Placed,6.5
+B,IT,7.2,1,2,Not Placed,0
+C,ECE,8.9,3,4,Placed,8.0
+D,CS,6.5,0,1,Not Placed,0
+E,IT,9.1,2,3,Placed,9.5
+F,ECE,7.8,1,2,Placed,5.5
+G,CS,8.2,2,2,Placed,7.0
+H,IT,6.9,0,1,Not Placed,0
+I,CS,9.3,3,5,Placed,10.0
+J,ECE,7.0,1,2,Not Placed,0
+K,IT,8.0,2,3,Placed,6.8
+L,CS,7.5,1,2,Placed,5.9
